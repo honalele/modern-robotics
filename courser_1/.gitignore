@@ -1,0 +1,10 @@
+.venv/
+.vscode/
+ipynb_checkpoints/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
